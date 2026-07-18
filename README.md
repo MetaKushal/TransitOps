@@ -310,14 +310,6 @@ Login.png
 
 ---
 
-# 🌐 Deployment
-
-| Service | Platform |
-|----------|----------|
-| Frontend | Vercel |
-| Backend | Render |
-| Database | MongoDB Atlas |
-
 ---
 
 # 🤝 Contributing
@@ -352,10 +344,7 @@ git push origin feature-name
 
 | Name | Role |
 |------|------|
-| 👨‍💻 Raj Soni | Full Stack Developer |
-| 👨‍💻 Kush Sharma | Full Stack Developer |
 | 👨‍💻 Kushal | Full Stack Developer |
-| 👨‍💻 Piyush | Full Stack Developer |
 
 ---
 
@@ -373,6 +362,6 @@ This project is developed for educational and collaborative purposes.
 
 ⭐ If you found this project helpful, don't forget to **Star** the repository!
 
-Made with ❤️ by **Team TransitOps**
+Made with ❤️ by **TransitOps**
 
 </div>
